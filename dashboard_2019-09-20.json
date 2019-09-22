@@ -42,7 +42,7 @@
 {
             "id": 5,
             "company": "COMPLEX SOLUTION",
-            "code": "executive_expenses",
+            "view": "executive_expenses",
             "2013-01-01": 16424000,
             "2014-01-01": 21720000,
             "2015-01-01": 30046000,
