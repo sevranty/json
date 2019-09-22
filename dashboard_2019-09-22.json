@@ -1,0 +1,339 @@
+{
+
+    "company": {
+
+        "id": "9712350643",
+
+        "inn_error_code": "0",
+
+        "name": "COMPLEX SOLUTION"
+
+    },
+
+    "finance": [
+
+        {
+
+            "code": "business_expenses",
+
+            "indicators": [],
+
+            "order_sequence": 0,
+
+            "periods": [
+
+                {
+
+                    "period": "2013-01-01",
+
+                    "value": 9913000
+
+                },
+
+                {
+
+                    "period": "2014-01-01",
+
+                    "value": 6716000
+
+                },
+
+                {
+
+                    "period": "2015-01-01",
+
+                    "value": 25989000
+
+                },
+
+                {
+
+                   "period": "2016-01-01",
+
+                    "value": 33315000
+
+                },
+
+                {
+
+                    "period": "2017-01-01",
+
+                    "value": 18443000
+
+                }
+
+            ]
+
+        },
+
+        {
+
+            "code": "sale_income",
+
+            "indicators": [],
+
+            "order_sequence": 0,
+
+            "periods": [
+
+                {
+
+                    "period": "2013-01-01",
+
+                    "value": 31121000
+
+                },
+
+                {
+
+                    "period": "2014-01-01",
+
+                    "value": 36265000
+
+                },
+
+                {
+
+                    "period": "2015-01-01",
+
+                    "value": 85324000
+
+                },
+
+                {
+
+                    "period": "2016-01-01",
+
+                    "value": 58796000
+
+                },
+
+                {
+
+                    "period": "2017-01-01",
+
+                    "value": 65535000
+
+                }
+
+            ]
+
+        },
+
+        {
+
+            "code": "sale_cost",
+
+            "indicators": [],
+
+            "order_sequence": 0,
+
+            "periods": [
+
+                {
+
+                    "period": "2013-01-01",
+
+                    "value": 433217000
+
+                },
+
+                {
+
+                    "period": "2014-01-01",
+
+                    "value": 454789000
+
+                },
+
+                {
+
+                    "period": "2015-01-01",
+
+                    "value": 807194000
+
+                },
+
+                {
+
+                    "period": "2016-01-01",
+
+                    "value": 708021000
+
+                },
+
+                {
+
+                    "period": "2017-01-01",
+
+                    "value": 390543000
+
+                }
+
+            ]
+
+        },
+
+        {
+
+            "code": "operating_profit",
+
+            "indicators": [],
+
+            "order_sequence": 0,
+
+            "periods": [
+
+                {
+
+                    "period": "2013-01-01",
+
+                    "value": 490675000
+
+                },
+
+                {
+
+                    "period": "2014-01-01",
+
+                    "value": 519490000
+
+                },
+
+                {
+
+                    "period": "2015-01-01",
+
+                    "value": 948553000
+
+                },
+
+                {
+
+                    "period": "2016-01-01",
+
+                    "value": 836069000
+
+                },
+
+                {
+
+                    "period": "2017-01-01",
+
+                    "value": 507200000
+
+                }
+
+            ]
+
+        },
+
+        {
+
+            "code": "executive_expenses",
+
+            "indicators": [],
+
+            "order_sequence": 0,
+
+            "periods": [
+
+                {
+
+                    "period": "2013-01-01",
+
+                    "value": 16424000
+
+                },
+
+                {
+
+                    "period": "2014-01-01",
+
+                    "value": 21720000
+
+                },
+
+                {
+
+                    "period": "2015-01-01",
+
+                    "value": 30046000
+
+                },
+
+                {
+
+                    "period": "2016-01-01",
+
+                    "value": 35937000
+
+                },
+
+                {
+
+                    "period": "2017-01-01",
+
+                    "value": 32679000
+
+                }
+
+            ]
+
+        },
+
+        {
+
+            "code": "gross_margin",
+
+            "indicators": [],
+
+            "order_sequence": 0,
+
+            "periods": [
+
+                {
+
+                    "period": "2013-01-01",
+
+                    "value": 57458000
+
+                },
+
+                {
+
+                    "period": "2014-01-01",
+
+                    "value": 64701000
+
+                },
+
+                {
+
+                    "period": "2015-01-01",
+
+                    "value": 141359000
+
+                },
+
+                {
+
+                    "period": "2016-01-01",
+
+                    "value": 128048000
+
+                },
+
+                {
+
+                    "period": "2017-01-01",
+
+                    "value": 116657000
+
+                }
+
+            ]
+
+        }
+
+    ],
