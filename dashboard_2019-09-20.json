@@ -1,5 +1,6 @@
 [
 {
+            "id": 1,
             "company": "COMPLEX SOLUTION",
             "view": "business_expenses",
             "2013-01-01": 9913000,
@@ -9,6 +10,7 @@
             "2017-01-01": 18443000,
                 },
 {
+            "id": 2,
             "company": "COMPLEX SOLUTION",
             "view": "sale_income",
             "2013-01-01": 31121000,
@@ -18,6 +20,7 @@
             "2017-01-01": 65535000,
                 },
 {
+            "id": 3,
             "company": "COMPLEX SOLUTION",
             "view": "sale_cost",
             "2013-01-01": 433217000,
@@ -27,6 +30,7 @@
             "2017-01-01": 390543000,
                 },
 {
+            "id": 4,
             "company": "COMPLEX SOLUTION",
             "view": "operating_profit",
             "2013-01-01": 490675000,
@@ -36,6 +40,7 @@
             "2017-01-01": 507200000,
                 },
 {
+            "id": 5,
             "company": "COMPLEX SOLUTION",
             "code": "executive_expenses",
             "2013-01-01": 16424000,
@@ -45,6 +50,7 @@
             "2017-01-01": 32679000,
                 },
 {
+            "id": 6,
             "company": "COMPLEX SOLUTION",
             "view": "gross_margin",
             "2013-01-01": 57458000,
